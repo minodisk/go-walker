@@ -1,4 +1,4 @@
-# go-walker
+# go-walker [![Circle CI](https://circleci.com/gh/minodisk/go-walker/tree/master.svg?style=svg)](https://circleci.com/gh/minodisk/go-walker/tree/master)
 
 Walk a directory recursively in Go.
 
